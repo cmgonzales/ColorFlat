@@ -1,0 +1,38 @@
+.navigation{
+  width: 65%;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+.navbar-brand{
+  padding-right: 200px;
+  font-size: 15px;
+}
+.nav{
+  font-size: 10px;
+}
+.navbar{
+  background-color: lightblue !important;
+
+}
+i{
+  padding-left: 90px;
+}
+.computer{
+  margin: 0 auto;
+  width: 65%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: lightblue;
+}
+h1{
+  padding: 50px;
+
+}
+.container{
+  text-align: center;
+  background-color: lightblue;
+}
+img{
+  padding-right: 10px !important;
+  opacity: .70;
+}
