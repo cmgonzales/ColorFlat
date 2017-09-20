@@ -21,18 +21,103 @@ i{
   margin: 0 auto;
   width: 65%;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   background-color: lightblue;
+  text-align: center;
 }
 h1{
   padding: 50px;
+  padding-right: 10px;
+  color: white;
 
 }
-.container{
-  text-align: center;
-  background-color: lightblue;
+body{
+  background-color: black;
 }
-img{
-  padding-right: 10px !important;
-  opacity: .70;
+
+.mac{
+  width: 50%;
+  padding-top: 20px;
+}
+.middle{
+  width: 65%;
+  margin: 0 auto;
+  background-color: white;
+  padding-bottom: 20px;
+
+}
+
+.li{
+  text-align: center;
+}
+
+.flat{
+  width: 90%;
+text-align: center;
+padding-top: 35px;
+padding-left: 5px;
+
+}
+H6{
+  font-size: 8px;
+  text-align: center;
+}
+.seconds{
+  background-color: lightgreen;
+  width: 65%;
+margin: 0 auto;
+}
+.recent{
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+
+}
+.btn{
+  font-size: 8px;
+}
+
+.nav-link{
+  color: white;
+}
+
+.light{
+  padding-top: 40px;
+  width: 50%;
+  padding-bottom:20px;
+
+}
+.desc{
+  color: white;
+  text-align: center;
+  font-size: 8px;
+  padding-bottom: 30px;
+}
+.browser{
+  width: 70%;
+  padding-top: 60px;
+  padding-bottom: 25px;
+}
+.q{
+  font-size: 8px;
+
+  text-align: center;
+}
+.nav-item{
+  margin-right: 15px;
+}
+.road{
+  width: 85%;
+}
+.tree{
+  width: 78%;
+}
+.sp{
+  width: 80%;
+  height: 75px;
+}
+.pics{
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 30px;
 }
