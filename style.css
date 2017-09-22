@@ -4,15 +4,21 @@
   background-color: lightblue;
 }
 .navbar-brand{
-  padding-right: 200px;
   font-size: 15px;
+  padding-right: 200px;
 }
 .nav{
   font-size: 10px;
 }
+
 .navbar{
   background-color: lightblue !important;
 
+}
+
+.a{
+  margin: 0 auto;
+  width: 80%;
 }
 i{
   padding-left: 90px;
@@ -222,22 +228,59 @@ display: inline;
   background-color: rgb(104,104,104);
   margin: 0 auto;
 }
+textarea{
+  width: 99.9%
+}
 input{
-  width: 98.2%;
+  width: 99.9%;
   margin-bottom: 5px;
 }
 .end{
   color: black;
   width: 70%;
-  padding-bottom: 20px;
+  padding-bottom: 2px;
+  margin-bottom: 0;
 }
 .shows{
 text-align: center;
 }
 .credits{
-  text-align: center;
-}
-.ending{
+font-size: 12px;
+text-align: center;
 
-  display: inline;
+}
+.
+.icons{
+  margin-right: 30px;
+}
+li{
+  display: inline-block;
+}
+.lower{
+  margin: 0;
+  padding: 0;
+  width: 50%;
+}
+.en{
+  padding-left: 250px;
+}
+@media only screen and (max-width: 1330px) {
+    .navbar-brand{
+        padding-right: 160px;
+    }
+}
+@media only screen and (max-width: 1220px) {
+    .navbar-brand{
+        padding-right: 130px;
+    }
+}
+@media only screen and (max-width: 1154px) {
+    .navbar-brand{
+        padding-right: 100px;
+    }
+}
+@media only screen and (max-width: 1228px) {
+    .q{
+      font-size: 6px;
+    }
 }
